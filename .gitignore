@@ -1,0 +1,16 @@
+*.pyc
+*.img
+kAFL-Fuzzer/_trial_temp/
+kAFL-Fuzzer/agents/linux_x86_64/fuzzer/ext4
+kAFL-Fuzzer/agents/linux_x86_64/fuzzer/fat
+kAFL-Fuzzer/agents/linux_x86_64/fuzzer/kafl_vuln_test
+kAFL-Fuzzer/agents/linux_x86_64/fuzzer/ntfs
+kAFL-Fuzzer/agents/linux_x86_64/info/info
+kAFL-Fuzzer/agents/linux_x86_64/loader/loader
+kAFL-Fuzzer/debug.log
+kAFL-Fuzzer/kafl.ini.org
+*.tar.gz
+linux-4.6.2/
+qemu
+qemu-2.9.0/
+fuzzer_dir/
